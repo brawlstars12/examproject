@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+     background-color: green;
+    color: blue;
+    font-size: 20px;
+    padding: 30px;
+    margin: 40px;
+    background-image: linear-gradient(width,blue)
+}
+
